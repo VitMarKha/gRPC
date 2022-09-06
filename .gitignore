@@ -1,0 +1,4 @@
+ServerJava/.idea/*
+ServerJava/target/*
+ClientJava/target/*
+ClientJava/.idea/*
