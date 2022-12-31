@@ -1,4 +1,4 @@
-package org.vitmarkha;
+package org.fngoc;
 
 import io.grpc.stub.StreamObserver;
 import org.vitmarkha.grpc.GreetingServiceGrpc;

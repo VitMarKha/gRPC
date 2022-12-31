@@ -1,4 +1,4 @@
-package org.vitmarkha;
+package org.fngoc;
 
 import org.vitmarkha.grpc.GreetingServiceGrpc;
 import org.vitmarkha.grpc.GreetingServiceOuterClass;

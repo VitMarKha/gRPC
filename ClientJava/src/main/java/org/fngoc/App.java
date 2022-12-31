@@ -1,4 +1,4 @@
-package org.vitmarkha;
+package org.fngoc;
 
 /**
  * Hello world!
